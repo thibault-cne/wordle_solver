@@ -1,0 +1,14 @@
+# ninja log v5
+0	30	1647788924218841630	build.ninja	71d3fac683056cbe
+30	63	1647716023066552082	WORDLESolver	3713823fbec937e3
+1	29	1647716023032444611	CMakeFiles/WORDLESolver.dir/srcs/analyzeWords.c.o	2d65808fd71d0353
+0	28	1647714350565316472	CMakeFiles/WORDLESolver.dir/srcs/possibleWords.c.o	a9e5617d5d8e3db
+0	25	1647715884017273141	CMakeFiles/WORDLESolver.dir/srcs/solver.c.o	1c4c5ea7d3b1bdee
+0	20	1647708890665345622	CMakeFiles/WORDLESolver.dir/srcs/main.c.o	3f489396c4f127c8
+0	27	1647714350563770400	CMakeFiles/WORDLESolver.dir/srcs/coreFunctions.c.o	7dc5c95f233eeecd
+1	25	1647788938124874778	CMakeFiles/WORDLESolver.dir/srcs/main.c.o	731d9fc44127acd5
+1	41	1647788938140810872	CMakeFiles/WORDLESolver.dir/srcs/solver.c.o	4f8903e6e35776c5
+1	41	1647788938140843454	CMakeFiles/WORDLESolver.dir/srcs/coreFunctions.c.o	9101a4f81312fa59
+1	43	1647788938141592423	CMakeFiles/WORDLESolver.dir/srcs/possibleWords.c.o	3c8a78cdd5f5f76b
+2	44	1647788938143345018	CMakeFiles/WORDLESolver.dir/srcs/analyzeWords.c.o	ebedf3f8012705f1
+44	76	1647788938176841139	WORDLESolver	3713823fbec937e3
