@@ -53,3 +53,4 @@ dkms.conf
 
 # Cmake ignore
 cmake-build-debug/
+CMakeLists.txt
